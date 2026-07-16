@@ -1,7 +1,6 @@
 # Saccharomycomorphidae
- Multiple strains of Saccharomycomorpha
+ Multiple strains of Saccharomycomorpha spp
 
-# _Saccharomycomorpha-psychra_
 This project aims to ... [_Saccharomycomorpha psychra_](https://pubmed.ncbi.nlm.nih.gov/33448091/). 🦠 
 
 
